@@ -64,7 +64,7 @@ flutter run
  Testes unitários e widget tests
 
  CI/CD (GitHub Actions)
-
+```
 📎 Licença
 
 MIT — fique à vontade para estudar, modificar e evoluir o app.
